@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi3202
+- 👋 Hi, I’M Abhinay Bale
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate on Artificial intelligence 
